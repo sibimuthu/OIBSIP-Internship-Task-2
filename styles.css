@@ -1,0 +1,189 @@
+.port {
+    color: black;
+}
+.main-logo {
+    float: right;
+    height: 300px;
+    width: 300px;
+    margin: 0;
+}
+
+.active {
+    color: rgb(13 110 253)
+      !important;
+    background-color: white 
+       !important;
+}
+.nav-item {
+    padding: 10px;
+    margin-left: 5px  !important;
+
+}
+.port {
+    margin-right: 20px;
+    margin: 0%  !important; 
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.container {
+    max-width: 100%  !important;
+}
+
+.nav-item:hover {
+    font-size: large;
+    color: black  !important;
+}
+.hi {
+    font-size: 35pt;
+}
+.student {
+    font-size: 40pt;
+}
+.color-name {
+    font-size: 40pt;
+    color: orange;
+    margin-left: 20px;
+    font-weight: bold;
+}
+#name {
+    display: flex;
+}
+.names {
+    margin: 5%;
+}
+.job {
+    margin-top: 10px;
+    font-size: 20pt;
+    font-weight: 600;
+}
+.btn {
+    width: 120px;
+    margin-top: 20px;
+}
+.icons {
+    padding: 20px;
+    background-color: white;
+}
+a {
+    padding: 5px;
+}
+#logo {
+    text-decoration: none;
+}
+.aboutme {
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+}
+.text {
+    margin-left: 10px;
+}
+
+.about-me {
+    width: 60%;
+
+}
+.title-name {
+    margin-top: 10px;
+    font-size: 20pt;
+    font-weight: bold;
+}
+.para {
+    text-align: justify;
+}
+
+.floats {
+    width: 30rem;
+    margin-left: 40%;
+}
+.pic {
+    width: 250px;
+    float: left;
+    margin-left: 130px;
+    margin-top: 50px;
+}
+.name {
+    padding: 1px;
+}
+.email {
+    font-weight: bold;
+}
+.place {
+    font-weight: bold;
+}
+.jobs {
+    font-weight: bold;
+}
+span {
+    color: orange;
+}
+.mail {
+    color: #0D6EFD;
+}
+
+.skill {
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 40px;
+}
+.card {
+    margin: 15px;
+    padding: 4px;
+}
+.boxOne {
+    margin-left: 250px;
+    padding: 10px;
+    display: flex;
+}
+.boxTwo {
+    margin-left: 260px;
+    display: flex;
+}
+.boxThree {
+    margin-left: 260px;
+    display: flex;
+}
+.project-title {
+    text-align: center;
+    font-weight: bold;
+    padding: 15px;
+}
+.projects {
+    padding: 20px;
+}
+.projectOne {
+    display: flex;
+}
+.projectTwo {
+    display: flex;
+}
+.exp {
+    text-align: center;
+    padding: 10px;
+}
+.expOne {
+    margin: 15px;
+    padding: 20px;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.imgOne {
+    float: left;
+}
+.txtOne {
+    margin-left: 350px;
+}
+.expTwo {
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 20px;
+    margin: 15px;
+}
+.expThree {
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 20px;
+    margin: 15px;
+}
